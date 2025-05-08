@@ -2,11 +2,11 @@ import java.util.*;
 
 public class Helloworld {
     public static void main(String[] args) {
-        System.out.println("hello taglia");
-        
-        char[] lettere = {'T', 'A', 'G', 'L', 'I', 'A'};
-        for (char lettera : lettere) {
-            System.out.println(lettera);
+        for (int i = 0; i < 3; i++) {
+            System.out.println("helloTaglia");
         }
+        System.out.println("16.04.2007");
+        System.out.println("Forza Follo Calcio!");
+    }
 }
- 
+
